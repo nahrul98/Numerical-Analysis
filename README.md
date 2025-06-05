@@ -1,2 +1,5 @@
 # Numerical-Analysis
-Codes related to numerical analysis
+Codes of some numerical analysis methods.
+
+Note:
+Mainly used for teaching purposes.
